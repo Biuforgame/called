@@ -1,0 +1,99 @@
+.body {
+    Background-color: #f0f2f5;
+    text-align: center;
+    color: black;
+    width: 570px;
+    margin-top: 50px;
+    left: 50px;
+    position: absolute;
+}
+
+*{
+    margin: 0;
+
+}
+
+.div1{
+    background-color: #DFF5FF;
+    display: table-caption;
+    text-align: left;
+    gap: 30px;
+    padding: 10px;
+    border: none;
+    width: 400px;
+    margin-bottom: 30px;
+    
+}
+
+.divspotify{
+    background-color: #944E63;
+    margin-left: 30pc;
+    left: 40pc;
+    bottom: 362px;
+    position: relative;
+    text-align: center;
+    margin: 3px;
+}
+
+.h1spo{
+    margin-bottom: 7px;
+    color: #fff;
+}
+
+.h1face{
+    margin-bottom: 4px;
+
+}
+
+.divface{
+    background-color: #fff;
+    padding: 4px;
+}
+
+.pngimgface{
+    width: max-content;
+    width: 508px;
+    border: 2px solid #000000;
+    padding: 2px;
+    margin: 30px;
+}
+
+.facebook{
+    color: #000000;
+}
+
+.en{
+    margin-bottom: auto;
+    margin-top: auto;
+    font-size: 1rem;
+    width: 40px;
+}
+
+a{
+    text-decoration: none;
+    display: table-caption;
+    width: 400px;
+    color: #000000;
+    font-family: Dm Sans, san serif;
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.a{
+    
+    display: inline-block;
+    margin-left: 70px;
+    font-size: 1.4rem;
+    text-decoration: none;
+    bottom: 3px;    
+    margin: 10px;
+    font-weight: 300;
+}
+
+#Profile{
+    position: relative;
+    top: 4px;
+    color: #2dccfce0;
+}
